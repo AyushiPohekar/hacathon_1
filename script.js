@@ -207,6 +207,7 @@ var form = document.createElement("form");
 form.setAttribute("id", "myform");
 var input = document.createElement("input");
 input.setAttribute("type", "text");
+input.setAttribute("placeholder", "Enter the name of Pokemon");
 input.setAttribute("id", "name");
 input.setAttribute("required", true);
 var br1 = linebreak();

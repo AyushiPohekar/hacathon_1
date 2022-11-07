@@ -11,9 +11,11 @@
 th{
     background-color: yellow;
     color: black;
+    padding: 1rem;
 }
 td{
     width:300px;
+    padding: 0.5rem;
 }
 
 
